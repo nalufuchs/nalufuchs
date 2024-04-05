@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ana-luisa-silveira-19a13a237/](https://www.linkedin.com/in/ana-luisa-silveira-19a13a237/)
 
-- ⚡ Fun fact **I'm very curious and obstinate, that's why I'm always learning and trying to do something new!**
+- ⚡ Fun fact: **I'm very curious and obstinate, that's why I'm always learning and trying to do something new!**
 
 [![NaluFuchs's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nalufuchs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nalufuchs/github-readme-stats#gh-dark-mode-only)
 
