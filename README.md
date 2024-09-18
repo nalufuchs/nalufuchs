@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working with Data Science in my internship, but I'm also always [studying and improving my data-science skills]([https://github.com/nalufuchs//database_generator])
 
-- 🌱 I’m currently studying for a second degree in **Data Science and Data Analytics**, and I also took part in a six months Bootcamp about Data Analytics, sponsored by Ifood and Microsoft! You can check all of the challenges I've made [here!]([(https://github.com/nalufuchs/data_analytics_bootcamp_challenges)])
+- 🌱 I’m currently studying for a second degree in **Data Science and Data Analytics**!
+
+- ⚡ I also took part in a six months Bootcamp about Data Analytics, sponsored by Ifood and Microsoft! You can check all of the challenges I've made [here!]([https://github.com/nalufuchs//data_analytics_bootcamp_challenges])
 
 - 👯 I’m looking to collaborate on [more data analysis projects and python programming!](https://github.com/nalufuchs/portfolio_kindle_analysis)
 
@@ -18,7 +20,7 @@
 
 - 📫 How to reach me **nalufuchs@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ana-luisa-silveira-19a13a237/](https://www.linkedin.com/in/ana-luisa-silveira-19a13a237/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ana-luisa-silveira-19a13a237/](https://www.linkedin.com/in/ana-luisa-silveira)
 
 - ⚡ Fun fact: **I'm very curious and obstinate, that's why I'm always learning and trying to do something new!**
 
