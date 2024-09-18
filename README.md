@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working with Data Science in my internship at AVMB IT Solutions!
 
-- 🌱 I’m currently studying for a second degree in **Data Science and Data Analytics**! [Check my latest project!]([https://github.com/nalufuchs/database_generator])
+- 🌱 I’m currently studying for a second degree in **Data Science and Data Analytics**! Check my latest project <a href="https://github.com/nalufuchs/database_generator">here!</a> 
 
-- ⚡ I also took part in a six months Bootcamp about Data Analytics, sponsored by Ifood and Microsoft! You can check all of the challenges I've made [here]([https://github.com/nalufuchs/data_analytics_bootcamp_challenges])
+- ⚡ I also took part in a six months Bootcamp about Data Analytics, sponsored by Ifood and Microsoft! You can check all of the challenges I've made <a href="https://github.com/nalufuchs/database_generator">here</a> 
 
 - 👯 I’m looking to collaborate on [more data analysis projects and python programming!](https://github.com/nalufuchs/portfolio_kindle_analysis)
 
